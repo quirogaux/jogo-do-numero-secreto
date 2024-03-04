@@ -51,6 +51,8 @@ function limparCampo() {
     chute.value = '';
 }
 
+// comentário
+
 function reiniciarJogo() {
     numeroSecreto = gerarNumeroAleatorio();
     limparCampo();
